@@ -1,4 +1,3 @@
-==================================
 Type: Note
 ------------------
 to : John
@@ -6,4 +5,3 @@ from : Smith
 heading : Reminder
 body : Don't forget me this weekend!
 date : 1999
-==================================

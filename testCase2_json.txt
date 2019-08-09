@@ -1,4 +1,3 @@
-==================================
 Type: Note
 ------------------
 to: John
@@ -11,8 +10,6 @@ from: Basil Tamaimi
 heading: Project
 body: No problema  perfecto
 
-==================================
-==================================
 Type: Employees
 ------------------
 name: Shyam
@@ -24,4 +21,3 @@ email: bob32@gmail.com
 name: Jai
 email: jai87@gmail.com
 
-==================================
