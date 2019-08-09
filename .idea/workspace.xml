@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30e5d76-579d-47ae-a14b-668d8bde7083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SI2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SI2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/FileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/FileParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/JSONFileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/JSONFileParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/FileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/FileParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SI1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SI2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
