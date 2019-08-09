@@ -1,3 +1,4 @@
+==================================
 Type: Note
 ------------------
 to: John
@@ -10,3 +11,4 @@ from: Basil Tamaimi
 heading: Project
 body: No problema  perfecto
 
+==================================

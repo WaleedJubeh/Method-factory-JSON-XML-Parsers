@@ -43,9 +43,12 @@ public class JSONFileParser  extends  FileParser{
                 //Capitilize the first letter of the type
                 type=type.substring(0,1).toUpperCase() + type.substring(1).toLowerCase();
                 //print all data of this type
+                output.write("==================================\n");
                 output.write("Type: " + type + "\n");
                 output.write("------------------\n");
                 output.write(parseJSONUnit(innerIterator.next()));
+                output.write("==================================\n");
+
             }
             System.out.println("Parse Done check file "+result);
             output.close();

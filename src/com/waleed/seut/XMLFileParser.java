@@ -45,6 +45,7 @@ public class XMLFileParser extends FileParser {
                             //Capitilize the first letter of the type
                             types=types.substring(0,1).toUpperCase() + types.substring(1).toLowerCase();
                             type=false;
+                            output.write("==================================\n");
                             output.write("Type: " + types + "\n");
                             output.write("------------------\n");
                         }
@@ -70,6 +71,7 @@ public class XMLFileParser extends FileParser {
                 }
 
             }
+            output.write("==================================\n");
             output.close();
             System.out.println("Parse Done check file "+result);
         } catch (XMLStreamException ex) {

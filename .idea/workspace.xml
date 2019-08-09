@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30e5d76-579d-47ae-a14b-668d8bde7083" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xmlbeans.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorymethod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/factorymethod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/FileParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/JSONFileParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlbeans.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase1_json.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase1_json.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase1_xml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase1_xml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase2_json.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase2_json.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase2_xml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase2_xml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase3_json.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase3_json.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase3_xml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase3_xml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase4_json.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCase4_json.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +104,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>47</line>
+          <line>48</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -114,12 +114,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>45</line>
+          <line>46</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>46</line>
+          <line>47</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -129,7 +129,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java</url>
-          <line>48</line>
+          <line>49</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
