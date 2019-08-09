@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30e5d76-579d-47ae-a14b-668d8bde7083" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/xmlbeans.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorymethod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/factorymethod.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/FileParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/JSONFileParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/result" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xmlbeans.jar" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

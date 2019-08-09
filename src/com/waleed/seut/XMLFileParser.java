@@ -47,6 +47,7 @@ public class XMLFileParser extends FileParser {
                             type=false;
                             output.write("Type: " + types + "\n");
                             output.write("------------------\n");
+
                         }
                         break;
                     }
