@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d30e5d76-579d-47ae-a14b-668d8bde7083" name="Default Changelist" comment="" />
+    <list default="true" id="d30e5d76-579d-47ae-a14b-668d8bde7083" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SI2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SI2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/FileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/FileParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/JSONFileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/JSONFileParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/FileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/FileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,15 +31,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1P6T9mhfxnyC8UlCfDMCb3RACOf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/xmlbeans.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -72,38 +90,49 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>55</line>
+          <line>47</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>43</line>
+          <line>38</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>53</line>
+          <line>45</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/JSONFileParser.java</url>
-          <line>54</line>
+          <line>46</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="27" />
+          <line>37</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="36" />
+          <line>42</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
