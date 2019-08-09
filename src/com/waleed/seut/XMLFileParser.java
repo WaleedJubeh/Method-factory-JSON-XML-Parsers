@@ -28,6 +28,7 @@ public class XMLFileParser extends FileParser {
                 System.out.println("Error");
                 return;
             }
+            String  end="";
             while (reader.hasNext()) {
                 int event = reader.next();
 
@@ -36,6 +37,7 @@ public class XMLFileParser extends FileParser {
                         content = new StringBuilder();
                         if(type) {
                             String types= ((String) reader.getLocalName());
+                            end=types;
                             //Capitilize the first letter of the type
                             types=types.substring(0,1).toUpperCase() + types.substring(1).toLowerCase();
                             type=false;
@@ -49,10 +51,10 @@ public class XMLFileParser extends FileParser {
                             content.append(reader.getText().trim());
                         }
                         break;
-
                     case XMLStreamConstants.END_ELEMENT:
                         if (content != null) {
                             String leafText = content.toString();
+                            if(!end.equals( reader.getLocalName()))
                             output.write(reader.getLocalName() + " : " + leafText+"\n");
                         }
                         content = null;

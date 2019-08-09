@@ -1,0 +1,6 @@
+<Employee>
+	<Fname>John</Fname>
+	<Lname>Smith</Lname>
+	<position>CSE</position>
+	<Bdate>1983/01/13</Bdate>
+</Employee>
