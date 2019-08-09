@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="xmlbeans">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xmlbeans.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
