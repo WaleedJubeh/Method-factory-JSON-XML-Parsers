@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d30e5d76-579d-47ae-a14b-668d8bde7083" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testCase1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase1_json.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase1_xml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase2_json.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase2_xml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase3_json.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase3_xml.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testCase4_json.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/factorymethod/com/waleed/seut/XMLFileParser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,12 +116,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java</url>
-          <line>38</line>
+          <line>42</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/waleed/seut/XMLFileParser.java</url>
-          <line>44</line>
+          <line>48</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>

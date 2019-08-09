@@ -29,10 +29,14 @@ public class XMLFileParser extends FileParser {
                 return;
             }
             String  end="";
+            //Start read tags to analyze
+            //Start tag , End tag,Start Document,  End document
+
             while (reader.hasNext()) {
                 int event = reader.next();
 
                 switch (event) {
+                    //New Attribute
                     case XMLStreamConstants.START_ELEMENT: {
                         content = new StringBuilder();
                         if(type) {
@@ -46,6 +50,7 @@ public class XMLFileParser extends FileParser {
                         }
                         break;
                     }
+                    //Get the value of the attribute
                     case XMLStreamConstants.CHARACTERS:
                         if (content != null) {
                             content.append(reader.getText().trim());
