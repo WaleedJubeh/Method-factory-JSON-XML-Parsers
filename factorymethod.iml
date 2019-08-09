@@ -8,6 +8,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="json_simple_1_1_all" level="project" />
-    <orderEntry type="library" name="xmlbeans" level="project" />
   </component>
 </module>
